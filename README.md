@@ -1,0 +1,2 @@
+# maze
+controls: arrows
